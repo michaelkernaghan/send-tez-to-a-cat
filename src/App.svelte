@@ -157,10 +157,11 @@
       {#if wallet}
         <div>
           {#if loading}
+          <br />
             <img src={'images/CatlickingPaw.gif'} alt="loading...">
-            <div class="subtitle">    
+            <!-- <div class="subtitle">    
               <p>The cat might be outside. Let's wait.</p>
-            </div>
+            </div> -->
           {:else}
           <br />
             <button on:click={transfer}>Use this button to send the cat 0.1 Tez</button>  

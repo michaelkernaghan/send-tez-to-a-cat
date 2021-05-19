@@ -157,7 +157,7 @@
       {#if wallet}
         <div>
           {#if loading}
-            <img src={'images/spinning_arrows.gif'} alt="loading...">
+            <img src={'images/CatlickingPaw.gif'} alt="loading...">
             <div class="subtitle">    
               <p>The cat might be outside. Let's wait.</p>
             </div>

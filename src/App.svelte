@@ -203,16 +203,6 @@
        }
      }
 
-     .chain-info {
-       font-size: 20px;
-       p {
-         margin: 5px;
-         font-family: cursive;
-         font-style: oblique;
-         color: $tezos-blue;
-       }
-     }
-
     button {
       appearance: none;
       border: solid 2px $tezos-blue;
@@ -230,11 +220,6 @@
         color: white;
         background-color: $tezos-blue;
       }
-    }
-  
-    a {
-      color: $tezos-blue;
-      text-decoration: underline;
     }
   }
 

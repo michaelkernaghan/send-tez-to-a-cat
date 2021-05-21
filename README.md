@@ -1,4 +1,5 @@
-#  Send Tez to a Cat Implementation of the Svelte Tezos Template
+#  Send Tez to a Cat And Buy/Redeem Cat Tickets:  
+#  An Implementation of Svelte Tezos Templates that were creted by Claude Barde
 
 ## A Svelte template to build awesome dapps on Tezos!
 

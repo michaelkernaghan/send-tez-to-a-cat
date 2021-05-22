@@ -270,7 +270,7 @@
 
 <main>
   <div class="container">
-    <div class="subtitle">Send Tez to a cat and get a ticket</div>
+    <div class="subtitle">Send Tez to a cat or get a Cat Ticket</div>
     <br />
     <div><img src={'images/buddy.jpg'} alt="A Cat" /></div>
     <br />
